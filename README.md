@@ -8,6 +8,8 @@
 ## <div align="center">Je suis NassCT, principalement un développeur web</div>  
 
 ### <div align="center">[Cliquez ici pour voir mon portfolio](https://www.cnassim.com)</div>  
+### <div align="center">[Cliquez ici pour voir mon LinkedIn](https://www.linkedin.com/in/nassim-chantout-990aa7260/)</div>  
+
 
 <img src="https://discord.c99.nl/widget/theme-3/354996937868705793.png" style="border-radius:10px">
   </a>
