@@ -11,14 +11,16 @@ svg {
 }
 
 .wave {
-  animation: wave 3s linear;
-  animation-iteration-count:infinite;
-  fill: #4478e3;  
+  animation: wave 3s linear infinite;
+  fill: #7d38c7;
+  transition: fill 0.5s ease; /* Ajout de la transition pour un fondu en douceur */
 }
 
 .wave:hover {
-  fill: #0066cc;
+  fill: #512b98;
 }
+
+
 
 #wave2 {
   animation-duration:5s;
