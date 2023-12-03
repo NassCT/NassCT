@@ -1,4 +1,4 @@
-<div align="center"> <img src="https://raw.githubusercontent.com/NassCT/NassCT/main/assets/header_up.svg" width="100%" /> </div>
+# <div align="center"> <img src="https://raw.githubusercontent.com/NassCT/NassCT/main/assets/header_up.svg" width="100%" /> </div>
 
 ### <div align="center"> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=35&duration=3000&pause=700&color=8F00FF&center=true&vCenter=true&repeat=false&random=false&width=650&height=90&lines=Salut+%F0%9F%91%8B%2C+Je+suis+NassCT;%F0%9F%8C%90Web+Developer;%F0%9F%93%9AAime+apprendre+de+nouvelle+choses)](https://git.io/typing-svg)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NassCT&label=Profile%20views&color=0e75b6&style=flat" alt="NassCT" /> </p>
