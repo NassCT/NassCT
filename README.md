@@ -1,42 +1,70 @@
-<div align="center" style="border-radius:15px">
-  <a href="https://discord.gg/nassct" title="Discord Server" target="_blank">
-    <img src="https://cdn.discordapp.com/attachments/1038878775628275873/1173745601813426236/nassct.gif?ex=656512c6&is=65529dc6&hm=5fa03d778c5dcc34ac9096e7f37912e5cfffe24ebc67465748c4f806b8969ec3&" style="width: 80%;border-radius:35px">
-  </a>
+<div align="center"> <img src="https://raw.githubusercontent.com/NassCT/NassCT/main/assets/header-up.svg" width="100%" /> </div>
+
+### <div align="center"> [![](https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=35&duration=3000&pause=700&color=8F00FF&center=true&vCenter=true&repeat=false&random=false&width=650&height=90&lines=Salut+%F0%9F%91%8B%2C+Je+suis+NassCT;%F0%9F%8C%90Web+Developer;%F0%9F%93%9AAime+apprendre+de+nouvelle+choses)](#)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=NassCT&label=Profile%20views&color=0e75b6&style=flat" alt="NassCT" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NassCT&theme=radical" alt="NassCT" /></a> </p>
+
+- 🔭 Je travaille sur [Association](https://github.com/NassCT/Association)
+- 🤝 Je collabore actuellement sur [SGRC](https://github.com/y28lyn/sgrc)
+- 🔋 J'améliore mon [Portfolio](https://www.cnassim.com)
+- 🤷‍♀️ Je crée des petits projets tels que [![Shobot](https://img.shields.io/badge/Shobot-black?style=flat-square&logo=data:image/png;base64,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)](https://github.com/NassCT/Shobot) [![ShoCat](https://img.shields.io/badge/ShoCat-black?style=flat-square&logo=data:image/png;base64,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)](https://github.com/NassCT/ShoCat)
+- 🧠 Je suis en train d'étudier ![React](https://img.shields.io/badge/React-2f3030?style=flat-square&logo=react) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-2f3030?style=flat-square&logo=tailwind-css) ![Node.js](https://img.shields.io/badge/Node.js-2f3030?style=flat-square&logo=node.js)
+
+<div> <a href="https://www.linkedin.com/in/nassim-chantout-990aa7260" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.cnassim.com" target="_blank">
+  <img src="https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio">
+</a>
+</div><h3 align="left">Qu'est ce je fais ?</h3>
+<p align="left">
+<a href="https://discord.com/users/354996937868705793" target="_blank">
+  <img src="https://discord.c99.nl/widget/theme-3/354996937868705793.png" style="border-radius:10px">
+</a>
+
+</p>
+
+<h3 align="left">Langages et Outils :</h3>
+<p align="left">
+<img src="https://raw.githubusercontent.com/NassCT/NassCT/main/assets/tailwind.svg" alt="Tailwindcss" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/NassCT/NassCT/main/assets/cs.svg" alt="Csharp" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/NassCT/NassCT/main/assets/js.svg" alt="Javascript" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/NassCT/NassCT/main/assets/py.svg" alt="Python" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/NassCT/NassCT/main/assets/php.svg" alt="PHP" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/NassCT/NassCT/main/assets/ts.svg" alt="Typescript" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/NassCT/NassCT/main/assets/html.svg" alt="HTML" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/NassCT/NassCT/main/assets/react.svg" alt="React" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/NassCT/NassCT/main/assets/nodejs.svg" alt="NodeJs" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/NassCT/NassCT/main/assets/mysql.svg" alt="Mysql" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/NassCT/NassCT/main/assets/mongo.svg" alt="Mongodb" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/NassCT/NassCT/main/assets/orcale.svg" alt="Oracle" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/NassCT/NassCT/main/assets/heroku.svg" alt="Heroku" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/NassCT/NassCT/main/assets/docker.svg" alt="Docker" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/NassCT/NassCT/main/assets/aws.svg" alt="Amazon Web Services" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/NassCT/NassCT/main/assets/dotnet.svg" alt="Dot Net" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/NassCT/NassCT/main/assets/ps.svg" alt="Photoshop" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/NassCT/NassCT/main/assets/figma.svg" alt="Figma" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/NassCT/NassCT/main/assets/ai.svg" alt="Adobe Illustrator" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/NassCT/NassCT/main/assets/unity.svg" alt="Unity" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/NassCT/NassCT/main/assets/git.svg" alt="Git" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/NassCT/NassCT/main/assets/linux.svg" alt="Linux" width="40" height="40"/>
+
+</p>
+
+<h3 align="left">Stars</h3>
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NassCT&layout=compact&theme=radical" alt=NassCT />
+
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=NassCT&show_icons=true&locale=en&theme=radical" alt="NassCT" /></p>
+
+<img src="https://raw.githubusercontent.com/NassCT/NassCT/main/assets/line.gif"><h3 align="center">Statistiques</h3>
+
+<div align="center">
+<a href="https://github.com/NassCT">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NassCT&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NassCT&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NassCT&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NassCT&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NassCT&theme=2077" height="180em" />
 </div>
 
-
-## <div align="center">Je suis NassCT, principalement un développeur web</div>  
-
-### <div align="center">[Cliquez ici pour voir mon portfolio](https://www.cnassim.com)</div>  
-### <div align="center">[Cliquez ici pour voir mon LinkedIn](https://www.linkedin.com/in/nassim-chantout-990aa7260/)</div>  
-
-
-<img src="https://discord.c99.nl/widget/theme-3/354996937868705793.png" style="border-radius:10px">
-  </a>
-
-***
-
-- 🔭 Je travaille actuellement sur un [**projet secret**](https://www.cnassim.com)
-  
-
-- 🌱 Je code actuellement en **PHP** **Javascript** et  et en **C#**.  
-  
-
-- ❓  J'adore coder, j'aime aussi aider !
-  
-<br/>
-  
-***
-
-## [Serveur Discord](https://discord.gg/) | [Site Web](https://www.cnassim.com)
-<a href="https://discord.gg/dcdev"><img src="https://discord.com/api/guilds/713407515400077432/widget.png?style=banner2"></a>
-
-***
-
-## ME SOUTENIR ET LE DÉVELOPPEMENT DE NASSCT
-
-> Vous pouvez toujours me soutenir en me contactant via mes differents [réseaux](https://www.cnassim.com)
-
-# Crédits
-
-> Si vous envisagez d'utiliser mes projets, assurez-vous de me créditer !
+<img src="https://raw.githubusercontent.com/NassCT/NassCT/main/assets/header-bottom.svg" />
