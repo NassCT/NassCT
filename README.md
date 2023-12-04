@@ -1,6 +1,6 @@
 # <div align="center"> <img src="https://raw.githubusercontent.com/NassCT/NassCT/main/assets/header_up.svg" width="100%" /> </div>
 
-### <div align="center"> [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Roboto&weight=900&size=35&duration=3000&pause=700&color=8F00FF&center=true&vCenter=true&repeat=false&random=false&width=650&height=90&lines=Salut+👋,+Je+suis+NassCT;🌐Web+Developer;📚Aime+apprendre+de+nouvelle+choses)](https://git.io/typing-svg)
+### <div align="center"> [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Roboto&weight=900&size=35&duration=3000&pause=700&color=8F00FF&center=true&vCenter=true&repeat=false&random=false&width=650&height=90&reapet=true&lines=Salut+👋,+Je+suis+NassCT;🌐Web+Developer;📚Aime+apprendre+de+nouvelle+choses)](https://git.io/typing-svg)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NassCT&label=Profile%20views&color=0e75b6&style=flat" alt="NassCT" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NassCT&theme=radical" alt="NassCT" /></a> </p>
